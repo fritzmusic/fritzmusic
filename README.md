@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning high level AI security protocols. 
 - 💞️ I’m looking to collaborate on AI development. 
-- 📫 How to reach me fritzmusic@gmail.com
+
 
 <!---
 fritzmusic/fritzmusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
