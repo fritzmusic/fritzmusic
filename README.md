@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fritzmusic
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning high level AI security protocols. 
-- 💞️ I’m looking to collaborate on AI development. 
+- 👀 I’m interested in not running into errors all the time spending all my time chasing error gordian logic
+- 🌱 I’m currently learning python and playing with graphical screensavers. 
+- 💞️ I’m looking to find the lest resistive path to success in my development endeavours. 
 
 
 <!---
