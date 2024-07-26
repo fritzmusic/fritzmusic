@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fritzmusic
 - 👀 I’m interested in not running into errors all the time spending all my time chasing error gordian-knot logic
 - 🌱 I’m currently learning python and playing with graphical screensavers. 
-- 💞️ I’m looking to find the laest resistive path to success in my development endeavours. 
+- 💞️ I’m looking to find the latest resistive path to success in my development endeavours. 
 
 
 <!---
